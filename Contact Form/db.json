@@ -1,0 +1,119 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "contatos": [
+    {
+      "id": "1",
+      "nome": "Felipe ",
+      "sobrenome": "Gonçalves",
+      "email": "felipe.goncalves@example.com"
+    },
+    {
+      "id": "2",
+      "nome": "Tiago",
+      "sobrenome": "Silva",
+      "email": "tiago.silva@example.com"
+    },
+    {
+      "id": "a-OqO0izIQE",
+      "nome": "Felipe",
+      "sobrenome": "Silva",
+      "email": "felipe.silva@example.com"
+    },
+    {
+      "nome": "Felipe",
+      "sobrenome": "Silva",
+      "id": "ASoyW05uU5A"
+    },
+    {
+      "nome": "Luiz",
+      "sobrenome": "Oliva",
+      "id": "y1ch0DpvrBY"
+    },
+    {
+      "nome": "Samuel",
+      "sobrenome": "Sales",
+      "id": "UG4sNQSXn2Y"
+    },
+    {
+      "nome": "Murilo",
+      "sobrenome": "Silva",
+      "id": "Wm6QIjWFHRU"
+    },
+    {
+      "nome": "Henrique ",
+      "sobrenome": "Nascimento",
+      "id": "O6UY2yxiIXU"
+    },
+    {
+      "nome": "Lucas ",
+      "sobrenome": "Marinheiro",
+      "id": "bWPbj6R4jiw"
+    },
+    {
+      "nome": "Felipe ",
+      "sobrenome": "Santos",
+      "id": "Lo215VCooe8"
+    },
+    {
+      "nome": "Luiz",
+      "sobrenome": "Oliva",
+      "email": "olivaluis@gmail.com",
+      "ddi": "+55",
+      "ddd": "11",
+      "telefone": "988939398",
+      "cep": "09940560",
+      "rua": "Rua dos Caquizeiros",
+      "endereco": "180",
+      "estado": "SP",
+      "cidade": "Diadema",
+      "bairro": "Taboão",
+      "complemento": "Casa",
+      "anotacoes": "Moro nessa casa a 17 anos",
+      "id": "70LkT1_Y7WE"
+    },
+    {
+      "nome": "Felipe",
+      "sobrenome": "Gonçalves",
+      "email": "Felipegoncalves@gmail.com",
+      "ddi": "+55",
+      "ddd": "11",
+      "telefone": "922989298",
+      "cep": "04253000",
+      "rua": "Rua Alencar Araripe",
+      "endereco": "110",
+      "estado": "SP",
+      "cidade": "São Paulo",
+      "bairro": "Sacomã",
+      "complemento": "Casa",
+      "anotacoes": "Moro nessa casa a 4 anos",
+      "id": "9PZdn0wU9A4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

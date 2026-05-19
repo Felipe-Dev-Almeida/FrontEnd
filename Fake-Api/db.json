@@ -1,0 +1,120 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Felipe Gonçalves",
+      "idade": 17,
+      "email": "felipe.goncalves@example.com"
+    },
+    {
+      "id": "2",
+      "nome": "Felipe Silva",
+      "idade": 17,
+      "email": "felipe.silva@example.com"
+    },
+    {
+      "id": "5MJyIAx9GNk",
+      "nome": "Thiago Esperidião",
+      "idade": 18,
+      "email": "thiago.esperidiao.com"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "texto": "Salve guyssssss",
+      "imagem": "https://static-cdn.jtvnw.net/jtv_user_pictures/64d44235-1dee-4bca-95da-bee1ee96eea3-profile_image-300x300.png   x   ",
+      "qtdCurtidas": 100
+    }
+  ],
+  "imc": [
+    {
+      "nome": "Eduardo",
+      "altura": 1.67,
+      "peso": 85,
+      "imc": 30.477966223242138,
+      "situacao": "Obesidade Grau I",
+      "id": "OjQ8KGshCp4"
+    },
+    {
+      "nome": "Felipe",
+      "altura": 1.7,
+      "peso": 77,
+      "imc": 26.643598615916957,
+      "situacao": "Sobrepeso",
+      "id": "48oBFPI7yQc"
+    },
+    {
+      "nome": "Lucas",
+      "altura": 1.88,
+      "peso": 75,
+      "imc": 21.22000905387053,
+      "situacao": "Saudável",
+      "id": "jGs2qJjWdAc"
+    },
+    {
+      "nome": "Thiago",
+      "altura": 1.92,
+      "peso": 80,
+      "imc": 21.70138888888889,
+      "situacao": "Saudável",
+      "id": "tDPbrI7U5h0"
+    },
+    {
+      "nome": "Luiz",
+      "altura": 1.93,
+      "peso": 72,
+      "imc": 19.329377969878387,
+      "situacao": "Saudável",
+      "id": "bFfbWI-B_J8"
+    },
+    {
+      "nome": "Silvana",
+      "altura": 1.48,
+      "peso": 80,
+      "imc": 36.52300949598247,
+      "situacao": "Obesidade Grau II (severa)",
+      "id": "nD4O9FKFKgg"
+    }
+  ],
+  "frutas": [],
+  "jogos": [],
+  "calculadora": [
+    {
+      "n1": 455,
+      "n2": 535,
+      "operacao": "subtracao",
+      "resultado": "-80.00",
+      "id": "pe-RbjWuhE4"
+    },
+    {
+      "n1": 455,
+      "n2": 535,
+      "operacao": "soma",
+      "resultado": "990.00",
+      "id": "tJz9DFrbpHw"
+    },
+    {
+      "n1": 455,
+      "n2": 535,
+      "operacao": "subtracao",
+      "resultado": "-80.00",
+      "id": "3QBjWaIhD7c"
+    },
+    {
+      "n1": 455,
+      "n2": 535,
+      "operacao": "multiplicacao",
+      "resultado": "243425.00",
+      "id": "xh_SERmlthI"
+    },
+    {
+      "n1": 455,
+      "n2": 535,
+      "operacao": "divisao",
+      "resultado": "0.85",
+      "id": "Haqn9qsUEy8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
