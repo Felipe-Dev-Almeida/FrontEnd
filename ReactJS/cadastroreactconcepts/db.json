@@ -1,32 +1,25 @@
 {
   "produtos": [
     {
-      "titulo": "celular",
-      "descricao": "Celular novihho",
-      "preco": "1500",
-      "imagem": "C:\\fakepath\\celular de ultima geração.webp",
-      "id": "TPSFFpIagYc"
+      "titulo": "Celular",
+      "descricao": "Um celular novo",
+      "preco": 1300,
+      "imagem": "hero.png",
+      "id": "Tc_ZtRPXC-k"
     },
     {
       "titulo": "Pokebola",
-      "descricao": "Uma Pokebola pra capturar pokemons",
-      "preco": "10",
+      "descricao": "Uma pokebola para capturar pokemons",
+      "preco": 5,
       "imagem": "hero.png",
-      "id": "tIdMm9QgftY"
+      "id": "ETqgFblbjY8"
     },
     {
-      "titulo": "Pokebola",
-      "descricao": "Uma Pokebola pra capturar pokemons",
-      "preco": "10",
+      "titulo": "pedro",
+      "descricao": "123",
+      "preco": 123,
       "imagem": "hero.png",
-      "id": "6m2F6R7v3Rw"
-    },
-    {
-      "titulo": "Pokebola",
-      "descricao": "Uma Pokebola pra capturar pokemons",
-      "preco": "10",
-      "imagem": "hero.png",
-      "id": "dx1KhngvcKI"
+      "id": "QhklPTVYRxc"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
