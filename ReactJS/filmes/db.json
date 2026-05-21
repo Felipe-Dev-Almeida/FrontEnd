@@ -1,0 +1,21 @@
+{
+  "Genero": [
+    {
+      "nome": "Ação",
+      "id": "sBsFtR70Vbc"
+    },
+    {
+      "nome": "Romance",
+      "id": "ZOYv9qZUQzs"
+    },
+    {
+      "nome": "Terror",
+      "id": "CeRIQyv6Wxw"
+    },
+    {
+      "nome": "Suspense",
+      "id": "3T4elo2zhgE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
